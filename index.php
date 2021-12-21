@@ -1,7 +1,7 @@
 <?php
 
 
-require_once("classes/monetizze.php");
+require_once("monetizze.php");
 
 //Instancia a classe
 $IntegracaoMonetizze = new monetizzeJogos(7,2);
